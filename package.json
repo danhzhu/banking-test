@@ -1,0 +1,27 @@
+{
+  "name": "bankapp",
+  "version": "1.0.0",
+  "description": "Full MERN Stack Banking App",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "danhanZhu@mit.edu",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "firebase": "^9.5.0",
+    "history": "^5.1.0",
+    "lowdb": "^1.0.0",
+    "mongodb": "^3.7.3",
+    "nodemon": "^2.0.15",
+    "react": "^17.0.2",
+    "react-bootstrap-table": "^4.3.1",
+    "react-bootstrap-table-next": "^4.0.3",
+    "react-router-dom": "^6.0.2"
+  },
+  "keywords": []
+}
