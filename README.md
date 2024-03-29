@@ -12,12 +12,12 @@ To run this app on a local server, clone or download all of the files within thi
 - This current version has very basic authentication . I would like to upgrade the authentication and authorization byt using Firebase Authentication.
 
 ## Support
-I can be reached via email at david@d2weblogic.com, or connect with me on LinkedIn at https://www.linkedin.com/in/dave-diaz-b64aa88a/
+I can be reached via email at lucyzzh5802@gmail.com
 
 ## License information
 MIT License
 
-Copyright (c) 2021 Dave Diaz
+Copyright (c) 2024 Danhan Zhu
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
