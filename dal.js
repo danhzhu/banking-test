@@ -9,7 +9,7 @@ let db            = null;
 MongoClient.connect(url, {useUnifiedTopology: true}, function(err, client) {
     console.log("Connected successfully to db server: " + url);
     // connect to database
-    db = client.db('banking_app');
+    db = client.db('banking_test');
 });
 
 // create user account
